@@ -1,6 +1,7 @@
 {
   "name": "@salte-auth/bitbucket",
   "version": "3.0.0",
+  "browser": "dist/bitbucket.min.js",
   "main": "dist/bitbucket.min.js",
   "module": "dist/bitbucket.min.mjs",
   "types": "dist/bitbucket.d.ts",
