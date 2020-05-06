@@ -6,8 +6,8 @@
   "module": "dist/bitbucket.min.mjs",
   "types": "dist/bitbucket.d.ts",
   "description": "A Salte Auth provider for authenticating with Bitbucket!",
-  "homepage": "https://bitbucket.com/salte-auth/bitbucket",
-  "bugs": "https://bitbucket.com/salte-auth/bitbucket/issues",
+  "homepage": "https://github.com/salte-auth/bitbucket",
+  "bugs": "https://github.com/salte-auth/bitbucket/issues",
   "contributors": [
     "Nick Woodward <nick@salte.io>",
     "Dave Woodward <dave@salte.io>"
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.com/salte-auth/bitbucket.git"
+    "url": "https://github.com/salte-auth/bitbucket.git"
   },
   "scripts": {
     "start": "nps"
